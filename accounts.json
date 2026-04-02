@@ -4,8 +4,6 @@
     "startUrl": "https://craxpro.to",
     "cookies": [
       {
-        [
-    {
         "domain": ".craxpro.to",
         "expirationDate": 1803891277.534947,
         "hostOnly": false,
@@ -17,8 +15,8 @@
         "session": false,
         "storeId": null,
         "value": "836827%2CgnCEXqGQQ7m5x0K04PjQRJR77YxPUu88uyZabI3j"
-    },
-    {
+      },
+      {
         "domain": ".craxpro.to",
         "hostOnly": false,
         "httpOnly": false,
@@ -29,8 +27,8 @@
         "session": true,
         "storeId": null,
         "value": "nNRx7wcdQnQp6qA0"
-    },
-    {
+      },
+      {
         "domain": ".craxpro.to",
         "hostOnly": false,
         "httpOnly": true,
@@ -41,8 +39,8 @@
         "session": true,
         "storeId": null,
         "value": "%7B%2294%22%3A1775055826%7D"
-    },
-    {
+      },
+      {
         "domain": ".craxpro.to",
         "hostOnly": false,
         "httpOnly": true,
@@ -53,7 +51,7 @@
         "session": true,
         "storeId": null,
         "value": "9JxOKvC406sY8cnHKlV42GtEmmE3NmNi"
-    }
-]
+      }
+    ]
   }
 ]
